@@ -1,0 +1,26 @@
+# IMPLEMENTATION_STATE.md — current checkpoint (2026-11-27)
+
+Older detail lives in `archive/`. Rules: `ENGINEERING_RULES.md`. Per-feature statuses: `implementation.md`.
+
+## Baselines and branches
+- Default branch: <<sha / build>> — last owner-confirmed on device: …
+- Working branch: … latest CI-green build: … (not yet device-tested / not merged)
+- Rollback tags: …
+
+## This session (2026-11-27)
+- Changed (and why): …
+- Verified — and HOW (read / sanity / CI / artifact / device): …
+- NOT verified: …
+- Corrections of earlier wrong claims (state plainly): …
+
+## Needs owner device test (not verifiable in CI)
+1. …
+
+## Open items / next (priority order)
+1. …
+
+## Build log
+<n> <what> · <result> (cause if red)
+
+## 2026-11-19
+- E2E test of the template v2.

@@ -1,5 +1,5 @@
-import 'package:app_template/app.dart';
-import 'package:app_template/domain/language.dart';
+import 'package:tpl_e2e/app.dart';
+import 'package:tpl_e2e/domain/language.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

@@ -1,4 +1,4 @@
-import 'package:app_template/data/storage.dart';
+import 'package:tpl_e2e/data/storage.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

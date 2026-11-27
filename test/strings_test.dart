@@ -1,5 +1,5 @@
-import 'package:app_template/domain/language.dart';
-import 'package:app_template/ui/strings.dart';
+import 'package:tpl_e2e/domain/language.dart';
+import 'package:tpl_e2e/ui/strings.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 final _arabicLetter = RegExp(r'[\u0600-\u06FF]');

@@ -1,4 +1,4 @@
-name: app_template
+name: tpl_e2e
 description: Flutter app (generated from Flutter-App-Template).
 publish_to: none
 version: 1.0.0+1
@@ -11,6 +11,9 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  shared_preferences: ^2.3.0
+  flutter_local_notifications: 17.2.4
+  timezone: 0.9.4
 
 dev_dependencies:
   flutter_test:
